@@ -24,9 +24,11 @@
   },
   "homepage": "https://github.com/Softworks-Studio/boilercreate#readme",
   "dependencies": {
+    "boxen": "^8.0.1",
     "chalk": "^5.3.0",
     "commander": "^12.1.0",
     "fs-extra": "^11.2.0",
+    "gradient-string": "^2.0.2",
     "inquirer": "^11.0.2",
     "ora": "^8.1.0"
   }
