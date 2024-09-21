@@ -43,18 +43,6 @@ Boilercreate aims to simplify the process of setting up a production-ready backe
    npm run dev
    ```
 
-## 🛠️ Tech Stack
-
-- **Framework**: Express.js
-- **Language**: JavaScript (ESM)
-- **Database**: MongoDB with Mongoose
-- **Authentication**: JSON Web Tokens (JWT)
-- **Validation**: Joi
-- **Logging**: Winston
-- **Testing**: Jest, Supertest
-- **Documentation**: Swagger UI Express
-- **Security**: Helmet, CORS, Express Rate Limit
-
 ## 📁 Project Structure
 
 ```
@@ -79,10 +67,6 @@ my-awesome-api/
 ## 🚀 Deployment
 
 Boilercreate comes with Docker support out of the box, making deployment a breeze. You can easily deploy your application to any cloud provider that supports Docker containers.
-
-## 📚 Documentation
-
-The generated project includes Swagger UI for API documentation. Access it by navigating to `/api-docs` when your server is running.
 
 ## 🔒 Security
 
