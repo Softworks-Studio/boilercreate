@@ -1,0 +1,33 @@
+{
+  "name": "boilercreate",
+  "version": "1.0.0",
+  "description": "🚀 Flexible backend boilerplate generator. Quickly create Express, NestJS, or Koa projects with custom libraries and databases. Developed by Softworks Studio.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Softworks-Studio/boilercreate.git"
+  },
+  "keywords": [
+    "boilerplate",
+    "express",
+    "nestjs",
+    "koa"
+  ],
+  "author": "Softworks Studio",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Softworks-Studio/boilercreate/issues"
+  },
+  "homepage": "https://github.com/Softworks-Studio/boilercreate#readme",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "commander": "^12.1.0",
+    "fs-extra": "^11.2.0",
+    "inquirer": "^11.0.2",
+    "ora": "^8.1.0"
+  }
+}
