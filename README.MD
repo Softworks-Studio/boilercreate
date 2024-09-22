@@ -98,7 +98,7 @@ If you find Boilercreate helpful, please consider:
 
 ## 📄 License
 
-Boilercreate is open-source software licensed under the [Apache License 2.0](LICENSE).
+Boilercreate is open-source software licensed under the [Apache License 2.0](LICENSE.MD).
 
 ## 🙏 Acknowledgements
 
